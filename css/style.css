@@ -6,7 +6,6 @@
 [class*="col"] {
     background-color : blue;
     min-height: 50px;
-    margin: 2px 1px 0px 0px;
     padding: 10px 10px 10px 10px;
     display: flex;
 }

@@ -1,0 +1,15 @@
+:root {
+    font-size: 20px;
+    scroll-behavior: smooth;
+}
+
+[class*="col-"] {
+    background-color : blue;
+    min-height: 100px;
+    margin: 2px 1px 0px -1px;
+}
+
+h7 {
+    color:white;
+    
+}

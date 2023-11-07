@@ -3,13 +3,24 @@
     scroll-behavior: smooth;
 }
 
-[class*="col-"] {
+[class*="col"] {
     background-color : blue;
-    min-height: 100px;
-    margin: 2px 1px 0px -1px;
+    min-height: 50px;
+    margin: 2px 1px 0px 0px;
+    padding: 10px 10px 10px 10px;
+    display: flex;
 }
+
+[class*="nest"] {
+    background-color : green;
+    min-height: 20px;
+    
+}
+
+
+
 
 h7 {
     color:white;
-    
+    text-align: center;
 }

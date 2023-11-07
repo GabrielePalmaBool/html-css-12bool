@@ -3,6 +3,10 @@
     scroll-behavior: smooth;
 }
 
+.container {
+    background-color: red;
+}
+
 [class*="col"] {
     background-color : blue;
     min-height: 50px;

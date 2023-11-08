@@ -10,14 +10,14 @@
 [class*="col"] {
     background-color : blue;
     min-height: 50px;
-    padding: 10px 10px 10px 10px;
-    display: flex;
+    padding: 5px 5px 5px 5px; 
     position: relative;
 }
 
 [class*="nest"] {
     background-color : green;
-    min-height: 20px;
+    
+    min-height: 30px;
     position: relative;
 }
 
